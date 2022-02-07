@@ -1,2 +1,2 @@
-# m151
-Gelöste Aufgaben von Herr Ineichen
+# Modul M151
+Datenbanken in Web-Applikation einbinden
