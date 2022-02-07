@@ -12,7 +12,7 @@ const server = createServer((request, response)=>{
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+<h1><span style="color:green">Hello World</span></h1>
 </body>
 </html>`;
 response.end(body);
